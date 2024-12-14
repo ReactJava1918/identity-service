@@ -98,6 +98,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>identity-service</finalName>
 	</build>
 	<repositories>
 		<repository>
